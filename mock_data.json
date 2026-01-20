@@ -1,0 +1,42 @@
+[
+  {
+    "productId": 1,
+    "productName": "Product 1",
+    "productDescription": "Description of Product 1"
+  },
+  {
+    "productId": 2,
+    "productName": "Product 2",
+    "productDescription": "Description of Product 2"
+  },
+  {
+    "productId": 3,
+    "productName": "Product 3",
+    "productDescription": "Description of Product 3"
+  },
+  {
+    "productId": 4,
+    "productName": "Product 4",
+    "productDescription": "Description of Product 4"
+  },
+  {
+    "productId": 5,
+    "productName": "Product 5",
+    "productDescription": "Description of Product 5"
+  },
+  {
+    "productId": 6,
+    "productName": "Product 6",
+    "productDescription": "Description of Product 6"
+  },
+  {
+    "productId": 7,
+    "productName": "Product 7",
+    "productDescription": "Description of Product 7"
+  },
+  {
+    "productId": 8,
+    "productName": "Product 8",
+    "productDescription": "Description of Product 8"
+  }
+]
